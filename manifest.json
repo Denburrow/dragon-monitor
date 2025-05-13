@@ -1,0 +1,10 @@
+{
+  "name": "Dragon monitor",
+  "description": "Extension to monitor your dragons",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "html.html",
+    "default_icon": "icon.png"
+  }
+}
